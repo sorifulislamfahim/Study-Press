@@ -1,3 +1,19 @@
-.liniar-gradiant{
-    background-image: linear-gradient(to bottom silver 0%, black 100%);
+.image-carousol{
+    height: 500px;
+}
+.image-blog{
+    width: 100%;
+}
+.explore-part{
+    height: 460px;
+}
+.explore-image{
+    height: 460px;
+    width: 100%;
+}
+.student-image{
+    width: 100%;
+}
+.feadback-image{
+    width: 15%;
 }
